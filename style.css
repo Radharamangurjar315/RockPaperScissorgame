@@ -1,0 +1,51 @@
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#rock{
+    padding: 20px;
+    margin: 50px;
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+}
+
+#paper{
+    padding: 20px;
+    margin: 50px;
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+    
+}
+
+#scissor{
+    padding: 20px;
+    margin: 50px;
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+    
+}
